@@ -2,6 +2,7 @@ name: Studio KOVA
 favicon: null
 layout_spectrum: 0.9940810806583613
 typography_spectrum: 0.46324469335377216
+title: null
 cta:
   domain: null
   bucket: null
